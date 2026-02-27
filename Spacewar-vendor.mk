@@ -613,6 +613,7 @@ PRODUCT_PACKAGES += \
     libqcodec2_v4l2codec \
     libqdi \
     libqdp \
+    libqdMetaData \
     libqmi \
     libqmi_cci \
     libqmi_client_helper \
@@ -974,6 +975,7 @@ PRODUCT_PACKAGES += \
     libnetmgr_nr_fusion \
     libnetmgr_rmnet_ext \
     libnlnetmgr \
+    liboemcrypto \
     libofflinedump \
     libofflinelog \
     libopencv \
@@ -1194,6 +1196,7 @@ PRODUCT_PACKAGES += \
     vendor_lib_rfsa_adsp_libvpp_ais_networks_so \
     vendor_lib_rfsa_adsp_libvpt_action_recognition_so \
     libavenhancements \
+    libavservices_minijail \
     com.qualcomm.qti.dpm.api@1.0 \
     lib-imsvideocodec \
     lib-imsvt \
@@ -1247,6 +1250,7 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     QtiTelephony \
     WfdService \
+    wfdhdcphalservice \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
